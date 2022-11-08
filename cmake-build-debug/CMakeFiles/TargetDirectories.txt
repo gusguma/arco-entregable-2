@@ -1,0 +1,3 @@
+C:/develop/clion/arco-entregable-2/cmake-build-debug/CMakeFiles/arco_entregable_2.dir
+C:/develop/clion/arco-entregable-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/develop/clion/arco-entregable-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
